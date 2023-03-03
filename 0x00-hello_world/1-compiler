@@ -1,7 +1,1 @@
-#!/bin/bash
-<<<<<<< HEAD
-gcc -c $CFILE
 
-=======
-gcc -S $CFILE 
->>>>>>> 72bcd94081bcadaba0d74433bd2b99ba2dbb3e5f
